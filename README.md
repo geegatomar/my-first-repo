@@ -1,28 +1,37 @@
-# This is a large heading
+# Shivangi Tomar
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in Bangalore, India.
 
-- This is
-- an unordered
-- list
 
-1. This is
-2. an ordered
-3. list
+### Languages
 
-Here is `some code` in the middle of a sentence.
+My favourite languages are:
+
+- C
+- **C++**
+- **Python**
+
+
+### Food
+
+My favourite restaurants are:
+1. *Octopus* in Honk Kong
+2. *Corner House* in Bangalore
+3. *Gaylords* in Dehradun
+
+
+
+### Contact
+
+The best way to get in touch with me is my email id `shivangitomar1301@gmail.com`
+
+
+
+Here is how you can view the course where I learnt how to build this!  [LinkToCourse](https://www.coursera.org/learn/unix/home/welcome).
 
 ```
-This is
-a block
-of code
+Thank You for reading!
+Have a nice day!!
 ```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
